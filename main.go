@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/moroii69/bencode-foo/foo"
+	"github.com/ufraaan/bencode-foo/foo"
 )
 
 func main() {
